@@ -2655,15 +2655,17 @@ h6 {
   margin-bottom: -30px; }
 
 .feature_item {
-  padding: 50px 35px;
+  padding: 50px;
   border-radius: 10px;
   transition: all 300ms linear 0s;
   background: #fff;
-  margin-bottom: 30px; }
-  .feature_item i {
-    margin-bottom: 35px;
-    display: block; }
-    .feature_item i:before {
+  margin-bottom: 30px;
+  justify-content: flex;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  vertical-align: middle; }
+  .feature_item i:before {
       margin-left: 0px;
       font-size: 60px;
       color: #e1e1e1;
