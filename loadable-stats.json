@@ -1,0 +1,95 @@
+{
+  "errors": [],
+  "warnings": [
+    "./.cache/static-entry.js\nModule not found: Error: Can't resolve '../src/html' in 'C:\\Users\\Alex Reis\\Workspace\\portfolio_new\\.cache'\n @ ./.cache/static-entry.js"
+  ],
+  "version": "4.41.5",
+  "hash": "904717afd9583b591876",
+  "publicPath": "/",
+  "outputPath": "C:\\\\Users\\\\Alex Reis\\\\Workspace\\\\portfolio_new\\\\public",
+  "assetsByChunkName": {
+    "main": [
+      "render-page.js",
+      "render-page.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "render-page.js",
+      "size": 2063320,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "render-page.js.map",
+      "size": 1945633,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/hello-bf677a046e66daf2f6e28d75849004be.png",
+      "size": 59169,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/myself2-bc1a68e30f1b19a19114811056e14afb.png",
+      "size": 197808,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "render-page.js",
+        "render-page.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "render-page.js",
+        "render-page.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
