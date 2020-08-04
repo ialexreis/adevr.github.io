@@ -4,7 +4,7 @@
     "./.cache/static-entry.js\nModule not found: Error: Can't resolve '../src/html' in 'C:\\Users\\Alex Reis\\Workspace\\portfolio_new\\.cache'\n @ ./.cache/static-entry.js"
   ],
   "version": "4.41.5",
-  "hash": "6abd5c8782001dd02f89",
+  "hash": "0c46b401d4cb582e4d75",
   "publicPath": "/",
   "outputPath": "C:\\\\Users\\\\Alex Reis\\\\Workspace\\\\portfolio_new\\\\public",
   "assetsByChunkName": {
